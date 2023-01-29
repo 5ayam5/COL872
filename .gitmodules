@@ -1,3 +1,6 @@
 [submodule "COL872-Problem-Sets"]
 	path = COL872-Problem-Sets
 	url = https://github.com/5ayam5/COL872-Problem-Sets.git
+[submodule "qcrypto2022-lectures"]
+	path = qcrypto2022-lectures
+	url = https://github.com/koppulavenkata/qcrypto2022-lectures.git
